@@ -1,3 +1,3 @@
 # github-finder
 1st React training project
-tst
+version 1.0.0
